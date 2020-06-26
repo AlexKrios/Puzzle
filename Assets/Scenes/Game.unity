@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameSpeed: 2
-  shufleCount: 1
+  shufleCount: 100
   saveLoadManager: {fileID: 486585990}
   gameInit: {fileID: 486585983}
   gameStart: {fileID: 486585985}
